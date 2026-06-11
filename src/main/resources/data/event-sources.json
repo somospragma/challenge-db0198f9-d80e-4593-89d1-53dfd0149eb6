@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IoT Sensor",
+    "rate": "100 events/sec",
+    "acceptableLatency": "100ms"
+  },
+  {
+    "name": "Financial Transactions",
+    "rate": "500 events/sec",
+    "acceptableLatency": "500ms"
+  },
+  {
+    "name": "User Requests",
+    "rate": "200 events/sec",
+    "acceptableLatency": "200ms"
+  }
+]
